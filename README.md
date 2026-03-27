@@ -32,4 +32,18 @@ From the repository root:
 ```bash
 javac -d out src/javaoops/Attendance.java
 java -cp out javaoops.Attendance
+```
 
+## License
+This project is licensed under the [MIT License](LICENSE) — you are free to use, modify, and distribute this software with proper attribution.
+
+## Future Improvements
+This project is a simple console-based system, but it can be extended in many ways:
+
+- **Database Integration**: Replace text file storage with a relational database (e.g., MySQL, PostgreSQL) for better scalability and reliability.
+- **Graphical User Interface (GUI)**: Add a Swing/JavaFX or web-based frontend for easier interaction.
+- **Reporting Features**: Generate attendance reports (daily, monthly, per student) in formats like PDF or Excel.
+- **Authentication & Roles**: Add login functionality for teachers/admins with role-based access.
+- **Notifications**: Integrate email or SMS alerts for low attendance.
+- **Web Application**: Migrate to Spring Boot + REST APIs to make it accessible via browser or mobile app.
+- **Cloud Deployment**: Host the system on platforms like AWS or Azure for real-world usage.
