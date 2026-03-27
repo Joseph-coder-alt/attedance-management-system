@@ -26,3 +26,10 @@ attendance-management-system/
 │  └─ student.txt        # sample data (optional)
 ├─ README.md
 └─ .gitignore
+
+## How to compile and run
+From the repository root:
+```bash
+javac -d out src/javaoops/Attendance.java
+java -cp out javaoops.Attendance
+
