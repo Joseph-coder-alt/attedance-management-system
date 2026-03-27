@@ -1,0 +1,4 @@
+1. S001 , Alice , CSE , A , 2
+2. S002 , Bob , ECE , B , 3
+3. S003 , Carol , ME , C , 1
+4. S004 , David , IT , A , 4
